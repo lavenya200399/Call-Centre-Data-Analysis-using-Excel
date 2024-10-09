@@ -13,8 +13,8 @@ I have conducted an in-depth analysis of call center performance using Excel piv
 Performed ETL -> Data Cleaning -> Data Modeling -> Created pivot tables for KPIs-> Performed DAX Formula -> Created Report Using Power Pivot -> Conditional Formatting -> Made User Empathetic Report Design
 
 ## Key Analyses Themes
-How many calls we are getting by customer?
-How satisfied are our customers?
+1.How many calls we are getting by customer?
+How satisfied are our customers?
 Who are our top 10 customers?
 Top 10 customers for a specific representative?
 Call duration analysis
