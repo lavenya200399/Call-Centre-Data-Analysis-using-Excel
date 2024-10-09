@@ -6,10 +6,11 @@ Analyzing call center data is crucial for business success as it directly impact
 ![dashboard snap](https://github.com/user-attachments/assets/fc741325-1d2c-410a-a80b-717935317807)
 
 ## Project Overview
-Conducted an in-depth analysis of call center performance using Excel pivot tables to track sales, call patterns, team performance, and customer satisfaction metrics over a 12-month period.
+I have conducted an in-depth analysis of call center performance using Excel pivot tables to track sales, call patterns, team performance, and customer satisfaction metrics over a 12-month period.
 
 Pipeline
- Performed ETL -> Data Cleaning -> Data Modeling -> Created pivot tables for KPIs-> Performed DAX Formula -> Created Report Using Power Pivot -> Conditional Formatting -> Made User Empathetic Report Design
+
+Performed ETL -> Data Cleaning -> Data Modeling -> Created pivot tables for KPIs-> Performed DAX Formula -> Created Report Using Power Pivot -> Conditional Formatting -> Made User Empathetic Report Design
 
 ## Key Analyses Themes
 How many calls we are getting by customer?
