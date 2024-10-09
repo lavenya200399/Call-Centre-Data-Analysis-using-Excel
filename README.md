@@ -13,17 +13,17 @@ I have conducted an in-depth analysis of call center performance using Excel piv
 Performed ETL -> Data Cleaning -> Data Modeling -> Created pivot tables for KPIs-> Performed DAX Formula -> Created Report Using Power Pivot -> Conditional Formatting -> Made User Empathetic Report Design
 
 ## Key Analyses Themes
-1.How many calls we are getting by customer?
 
+1.How many calls we are getting by customer?
 2. How satisfied are our customers?
-Who are our top 10 customers?
-Top 10 customers for a specific representative?
-Call duration analysis
-How busy is our call centre in 2023?
-YTD Sales Analysis
-Which days of week are the busiest?
-Is there a link between call duration and satisfaction rating?
-Should we hire extra people in any specific months?
+3. Who are our top 10 customers?
+4.Top 10 customers for a specific representative?
+5.Call duration analysis
+6.How busy is our call centre in 2023?
+7.YTD Sales Analysis
+8.Which days of week are the busiest?
+9.Is there a link between call duration and satisfaction rating?
+10.Should we hire extra people in any specific months?
 
 ## Findings
 
