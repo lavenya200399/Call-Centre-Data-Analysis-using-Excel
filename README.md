@@ -56,7 +56,7 @@ Performed ETL -> Data Cleaning -> Data Modeling -> Created pivot tables for KPIs
 
 10.Hiring needs: April (35 calls) and June (25 calls) might require more staff to manage peak volumes.
 
-Recommendations:
+## Recommendations:
 
 1.Improve customer satisfaction for shorter calls
 
