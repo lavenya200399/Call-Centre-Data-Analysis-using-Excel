@@ -14,7 +14,8 @@ Performed ETL -> Data Cleaning -> Data Modeling -> Created pivot tables for KPIs
 
 ## Key Analyses Themes
 1.How many calls we are getting by customer?
-How satisfied are our customers?
+
+2. How satisfied are our customers?
 Who are our top 10 customers?
 Top 10 customers for a specific representative?
 Call duration analysis
